@@ -1,0 +1,110 @@
+# Analisi Dati Calcistici – Workflow del Progetto
+
+## 1. Idea del Progetto
+
+L'obiettivo di questo progetto è analizzare le performance calcistiche di tre dei principali campionati europei:
+
+- Serie A
+- Premier League
+- La Liga
+
+Lo scopo è costruire una pipeline completa di analisi dati partendo da dataset grezzi fino alla creazione di una dashboard interattiva in Power BI.
+
+---
+
+## 2. Raccolta dei Dati
+
+I dataset utilizzati nel progetto sono stati raccolti da fonti pubbliche di statistiche calcistiche.
+
+Sono stati utilizzati due principali tipi di dataset:
+
+Dataset delle partite contenenti:
+
+- risultati delle partite
+- goal segnati
+- goal subiti
+- statistiche di gioco
+
+Dataset dei giocatori contenenti:
+
+- statistiche dei giocatori
+- goal
+- assist
+- minuti giocati
+
+---
+
+## 3. Pulizia dei Dati (Python)
+
+La pulizia dei dati è stata effettuata utilizzando Python e la libreria Pandas all'interno di Jupyter Notebook.
+
+Sono stati utilizzati due notebook principali:
+
+- matches_data_cleaning.ipynb
+- players_data_cleaning.ipynb
+
+Le principali operazioni effettuate includono:
+
+- rimozione delle colonne non necessarie
+- formattazione dei dati
+- filtraggio dei campionati
+- esportazione dei dataset puliti
+
+---
+
+## 4. Dataset Puliti
+
+Dopo il processo di pulizia, i dataset finali sono stati esportati come file CSV.
+
+Dataset delle partite:
+
+- matches_serie_a_clean.csv
+- matches_premier_league_clean.csv
+- matches_liga_clean.csv
+
+Dataset dei giocatori:
+
+- players_capstone_3_leagues_2024_2025.csv
+
+---
+
+## 5. Creazione Database
+
+I dataset puliti sono stati importati in un database MySQL per permettere analisi strutturate dei dati.
+
+Le query SQL sono state utilizzate per calcolare metriche e statistiche delle squadre.
+
+---
+
+## 6. Analisi dei KPI
+
+Sono stati calcolati diversi indicatori di performance, tra cui:
+
+- goal segnati
+- goal subiti
+- percentuale di vittorie
+- clean sheets
+- minuti per goal
+- conversione dei tiri in goal
+
+---
+
+## 7. Visualizzazione dei Dati
+
+La fase finale del progetto consiste nella creazione di una dashboard interattiva realizzata con Power BI.
+
+La dashboard permette di analizzare:
+
+- performance delle squadre
+- confronto tra campionati
+- statistiche dei giocatori
+
+---
+
+## 8. Risultato Finale
+
+Il progetto dimostra una pipeline completa di analisi dati che combina:
+
+Python per la pulizia dei dati  
+SQL per l'analisi dei dati  
+Power BI per la visualizzazione dei dati

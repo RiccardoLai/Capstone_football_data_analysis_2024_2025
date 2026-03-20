@@ -1,0 +1,226 @@
+# 📊 Dashboard Insights
+Football Data Analysis 2024–2025
+
+This document explains the analytical insights behind the visualizations and KPIs presented in the Power BI dashboard.
+
+The dashboard analyzes football performance across three major European leagues:
+
+⚽ Serie A  
+⚽ Premier League  
+⚽ La Liga  
+
+Each page focuses on a specific analytical level, moving from league overview to player analysis and finally to a team case study.
+
+---
+
+# 🏟 1. Home – Project Navigation
+
+The home page acts as the **central hub of the entire dashboard**.
+
+The layout is designed as a football field to visually connect the project to the sport being analyzed.
+
+From this page users can access the six analytical sections of the project:
+
+⚽ Liga Analysis  
+⚽ Serie A Analysis  
+⚽ Premier League Analysis  
+📊 League Comparison  
+👟 Player Analysis  
+🏟 Cagliari vs Napoli Case Study  
+
+The purpose of this page is not analytical but **structural**: it guides the user through the data analysis journey.
+
+The dashboard is structured to follow a logical analytical path:
+
+League Analysis → Player Impact → League Comparison → Team Case Study.
+
+📌 **Summary**
+
+This page introduces the project and allows users to navigate the different analytical sections of the dashboard.
+
+---
+
+# 🇪🇸 2. Liga Analysis
+
+This page analyzes the **overall performance of La Liga during the 2024–2025 season**.
+
+The KPIs at the top of the page summarize the league's offensive production:
+
+⚽ Total Goals  
+📅 Total Matches  
+📊 Average Goals per Match  
+
+The data shows a league that combines offensive quality with tactical balance.
+
+Barcelona clearly emerges as the most dominant team of the season.
+
+🏆 Most Wins: Barcelona  
+⚽ Best Attack: Barcelona  
+
+Defensively, Athletic Bilbao stands out as the most solid team:
+
+🧤 Best Defense: Athletic Bilbao
+
+The player insights highlight the individual stars of the competition.
+
+⚽ Top Scorer: Kylian Mbappé  
+👟 Top Assist Provider: Lamine Yamal  
+🧤 Best Save Percentage: Unai Simón
+
+The **Top 10 Players chart** combines goals and assists to show which players have had the biggest impact on the league.
+
+📌 **Summary**
+
+This page provides a complete overview of La Liga, highlighting the most dominant teams and the players who have had the greatest influence on the competition.
+
+---
+
+# 🇮🇹 3. Serie A Analysis
+
+This page focuses on the **Italian Serie A during the 2024–2025 season**.
+
+The main KPIs show the overall offensive output of the league:
+
+⚽ Total Goals  
+📅 Total Matches  
+📊 Average Goals per Match  
+
+Compared with the Premier League, Serie A displays a slightly lower scoring average, reflecting a more tactical and balanced style of play.
+
+Inter emerges as the team with the highest number of wins and the most productive attack.
+
+🏆 Most Wins: Inter  
+⚽ Best Attack: Inter  
+
+Napoli stands out defensively:
+
+🧤 Best Defense: Napoli
+
+The player insights identify the most influential individual performers.
+
+⚽ Top Scorer: Mateo Retegui  
+👟 Top Assist Provider: Romelu Lukaku  
+🧤 Best Save Percentage: Mile Svilar  
+
+The **Top 10 Players chart** shows the attackers who have contributed the most in terms of goals and assists.
+
+📌 **Summary**
+
+This page highlights the tactical balance of Serie A and identifies the teams and players that have shaped the competition during the season.
+
+---
+
+# 🏴 4. Premier League Analysis
+
+The Premier League page presents the most **offensively productive league among the three analyzed competitions**.
+
+The KPIs reveal impressive scoring numbers:
+
+⚽ Total Goals  
+📅 Total Matches  
+📊 Goals per Match  
+
+With nearly three goals per game, the Premier League stands out for its attacking intensity.
+
+Liverpool emerges as the dominant team of the season.
+
+🏆 Most Wins: Liverpool  
+⚽ Best Attack: Liverpool  
+
+Defensively, Arsenal performs best:
+
+🧤 Best Defense: Arsenal
+
+The individual star of the league is Mohamed Salah.
+
+⚽ Top Scorer: Mohamed Salah  
+👟 Top Assist Provider: Mohamed Salah
+
+This highlights his exceptional influence on Liverpool's attacking performance.
+
+📌 **Summary**
+
+This page demonstrates how the Premier League stands out as the most attacking competition, driven by high-scoring matches and decisive individual performances.
+
+---
+
+# 📊 5. League Comparison
+
+This page compares the three major European leagues analyzed in the project.
+
+The goal of this section is to highlight the **differences in playing style and performance between competitions**.
+
+Several metrics are compared:
+
+⚽ Goals per Match  
+📊 Total Goals  
+👟 Total Assists  
+🧤 Clean Sheet Rate  
+🎯 Shot Conversion Rate  
+
+The data clearly shows that the Premier League produces the highest number of goals per match.
+
+La Liga appears as a balanced competition between offensive and defensive football.
+
+Serie A, on the other hand, shows a slightly more structured tactical approach.
+
+📌 **Summary**
+
+This page provides a direct comparison between leagues, revealing how different tactical cultures influence the statistical output of each competition.
+
+---
+
+# 👟 6. Player Analysis
+
+This section focuses on **individual player performance across the three leagues**.
+
+Interactive filters allow users to analyze players based on:
+
+🏆 Competition  
+⚽ Team  
+👤 Player  
+📍 Position  
+
+The aggregated KPIs summarize the total offensive production of the dataset:
+
+⚽ Total Goals  
+👟 Total Assists  
+📊 Expected Goals  
+⏱ Minutes Played  
+
+The charts display the **top goal scorers and top assist providers across all leagues**.
+
+This allows users to quickly identify the most impactful players in European football.
+
+📌 **Summary**
+
+This page focuses on player-level analysis, highlighting the individuals who contribute the most to offensive production across the three leagues.
+
+---
+
+# 🏟 7. Cagliari vs Napoli – Case Study
+
+The final page presents a **direct comparison between two Serie A teams with very different seasonal objectives**.
+
+⚽ Napoli — Title contender  
+⚽ Cagliari — Relegation battle  
+
+Several KPIs illustrate the performance gap between the two teams:
+
+⚽ Goals Scored  
+🧤 Goals Conceded  
+👟 Assists  
+📊 Expected Goals  
+⏱ Minutes per Goal  
+
+Napoli shows significantly higher attacking efficiency.
+
+The team scores approximately **one goal every 58 minutes**, while Cagliari requires around **85 minutes per goal**.
+
+Defensively, Napoli also performs better, conceding far fewer goals during the season.
+
+The charts highlight the top scorers and top assist providers of both teams, identifying the players with the greatest influence on their squads.
+
+📌 **Summary**
+
+This page compares two teams with different competitive objectives and clearly shows how offensive efficiency and defensive stability influence overall team performance.

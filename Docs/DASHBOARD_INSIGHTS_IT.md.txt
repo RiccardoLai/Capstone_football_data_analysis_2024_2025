@@ -1,0 +1,224 @@
+# 📊 Insight della Dashboard
+Football Data Analysis 2024–2025
+
+Questo documento descrive gli insight e l’interpretazione delle visualizzazioni e delle KPI presenti nella dashboard Power BI.
+
+L’analisi riguarda tre dei principali campionati europei:
+
+⚽ Serie A  
+⚽ Premier League  
+⚽ La Liga  
+
+La dashboard è progettata per accompagnare l’utente in un percorso analitico progressivo: dalla panoramica dei campionati fino ad un confronto diretto tra squadre.
+
+---
+
+# 🏟 1. Home – Navigazione del Progetto
+
+La pagina iniziale rappresenta il punto di accesso principale alla dashboard.
+
+Il layout è progettato come un **campo da calcio**, una scelta grafica che richiama immediatamente il contesto sportivo dell’analisi.
+
+Da questa pagina è possibile accedere alle principali sezioni della dashboard:
+
+⚽ Liga Analysis  
+⚽ Serie A Analysis  
+⚽ Premier League Analysis  
+📊 League Comparison  
+👟 Player Analysis  
+🏟 Cagliari vs Napoli Case Study  
+
+Questa struttura permette di seguire un flusso analitico chiaro:
+
+Analisi dei Campionati → Analisi dei Giocatori → Confronto tra Leghe → Caso Studio tra Squadre.
+
+📌 **Conclusione**
+
+Questa pagina ha lo scopo di introdurre il progetto e guidare l’utente nella navigazione delle diverse sezioni della dashboard.
+
+---
+
+# 🇪🇸 2. Analisi La Liga
+
+Questa pagina analizza l’andamento complessivo della **La Liga nella stagione 2024–2025**.
+
+Le KPI principali riassumono la produzione offensiva del campionato:
+
+⚽ Goal Totali  
+📅 Numero Totale di Partite  
+📊 Media Goal per Partita  
+
+Questi indicatori permettono di comprendere immediatamente il livello di intensità offensiva della competizione.
+
+Il **Barcellona** emerge chiaramente come la squadra dominante della stagione.
+
+🏆 Maggior Numero di Vittorie: Barcellona  
+⚽ Miglior Attacco: Barcellona  
+
+Dal punto di vista difensivo invece si distingue l’**Athletic Bilbao**, con il minor numero di goal subiti.
+
+🧤 Miglior Difesa: Athletic Bilbao
+
+La sezione **Player Insight** evidenzia i protagonisti individuali del campionato.
+
+⚽ Capocannoniere: Kylian Mbappé  
+👟 Miglior Assistman: Lamine Yamal  
+🧤 Miglior Percentuale di Parate: Unai Simón  
+
+Il grafico dei **Top 10 Players** mostra i giocatori che hanno avuto il maggiore impatto offensivo combinando goal e assist.
+
+📌 **Conclusione**
+
+Questa pagina fornisce una panoramica completa della Liga, mettendo in evidenza le squadre più dominanti e i giocatori più determinanti della stagione.
+
+---
+
+# 🇮🇹 3. Analisi Serie A
+
+Questa pagina analizza l’andamento della **Serie A nella stagione 2024–2025**.
+
+Le KPI principali mostrano la produzione offensiva complessiva del campionato:
+
+⚽ Goal Totali  
+📅 Numero Totale di Partite  
+📊 Media Goal per Partita  
+
+Rispetto alla Premier League, la Serie A presenta una media goal leggermente inferiore, indice di un calcio più tattico e strutturato.
+
+L’**Inter** emerge come la squadra con il maggior numero di vittorie e con l’attacco più prolifico.
+
+🏆 Maggior Numero di Vittorie: Inter  
+⚽ Miglior Attacco: Inter  
+
+Dal punto di vista difensivo invece si distingue il **Napoli**.
+
+🧤 Miglior Difesa: Napoli
+
+L’analisi dei giocatori evidenzia i protagonisti della stagione.
+
+⚽ Capocannoniere: Mateo Retegui  
+👟 Miglior Assistman: Romelu Lukaku  
+🧤 Miglior Percentuale di Parate: Mile Svilar  
+
+Il grafico dei **Top 10 Players** permette di identificare rapidamente gli attaccanti più influenti del campionato.
+
+📌 **Conclusione**
+
+Questa pagina evidenzia l’equilibrio tattico della Serie A e mette in luce le squadre e i giocatori che hanno influenzato maggiormente l’andamento della stagione.
+
+---
+
+# 🏴 4. Analisi Premier League
+
+La Premier League risulta il campionato con la maggiore produzione offensiva tra quelli analizzati.
+
+Le KPI principali mostrano numeri molto elevati:
+
+⚽ Goal Totali  
+📅 Numero Totale di Partite  
+📊 Media Goal per Partita  
+
+Con quasi tre goal per partita, la Premier League conferma uno stile di gioco estremamente offensivo e dinamico.
+
+Il **Liverpool** emerge come la squadra dominante della stagione.
+
+🏆 Maggior Numero di Vittorie: Liverpool  
+⚽ Miglior Attacco: Liverpool  
+
+Dal punto di vista difensivo si distingue invece l’**Arsenal**.
+
+🧤 Miglior Difesa: Arsenal
+
+Il protagonista assoluto tra i giocatori è **Mohamed Salah**.
+
+⚽ Capocannoniere: Mohamed Salah  
+👟 Miglior Assistman: Mohamed Salah  
+
+Questo dimostra il suo impatto straordinario nella produzione offensiva del Liverpool.
+
+📌 **Conclusione**
+
+Questa pagina dimostra come la Premier League sia il campionato più spettacolare e offensivo tra quelli analizzati.
+
+---
+
+# 📊 5. Confronto tra Campionati
+
+La pagina **League Comparison** mette a confronto i tre campionati analizzati.
+
+L’obiettivo è individuare le differenze nello stile di gioco tra le competizioni.
+
+Le principali metriche analizzate sono:
+
+⚽ Goal per Partita  
+📊 Goal Totali  
+👟 Assist Totali  
+🧤 Percentuale di Clean Sheet  
+🎯 Shot Conversion Rate  
+
+I dati mostrano chiaramente che la Premier League produce il maggior numero di goal per partita.
+
+La Liga si colloca in una posizione intermedia tra attacco e organizzazione difensiva.
+
+La Serie A invece presenta uno stile leggermente più equilibrato e tattico.
+
+📌 **Conclusione**
+
+Questa pagina consente di confrontare direttamente i tre campionati e mostra come le differenze tattiche influenzino i risultati statistici.
+
+---
+
+# 👟 6. Analisi Giocatori
+
+Questa sezione è dedicata alle **performance individuali dei giocatori**.
+
+Grazie ai filtri interattivi è possibile analizzare i dati per:
+
+🏆 Campionato  
+⚽ Squadra  
+👤 Giocatore  
+📍 Posizione  
+
+Le KPI riassumono la produzione offensiva complessiva dei dataset analizzati.
+
+⚽ Goal Totali  
+👟 Assist Totali  
+📊 Expected Goals  
+⏱ Minuti Giocati  
+
+I grafici mostrano i migliori marcatori e i migliori assistman dei tre campionati.
+
+Questo permette di individuare rapidamente i giocatori più determinanti del calcio europeo.
+
+📌 **Conclusione**
+
+Questa pagina permette di analizzare l’impatto individuale dei giocatori e il loro contributo alla produzione offensiva delle squadre.
+
+---
+
+# 🏟 7. Cagliari vs Napoli – Caso Studio
+
+L’ultima pagina della dashboard presenta un confronto diretto tra due squadre della Serie A con obiettivi molto diversi.
+
+⚽ Napoli — lotta per il titolo  
+⚽ Cagliari — lotta per la salvezza  
+
+Le KPI mettono in evidenza il divario di performance tra le due squadre.
+
+⚽ Goal Segnati  
+🧤 Goal Subiti  
+👟 Assist  
+📊 Expected Goals  
+⏱ Minuti per Goal  
+
+Il Napoli mostra una maggiore efficienza offensiva.
+
+La squadra segna mediamente **un goal ogni 58 minuti**, mentre il Cagliari segna circa **un goal ogni 85 minuti**.
+
+Anche dal punto di vista difensivo il Napoli dimostra maggiore solidità, subendo molti meno goal durante la stagione.
+
+I grafici evidenziano inoltre i giocatori più determinanti delle due squadre, mostrando i migliori marcatori e assistman.
+
+📌 **Conclusione**
+
+Questa pagina confronta due squadre con obiettivi opposti e mostra chiaramente come efficienza offensiva e solidità difensiva influenzino la posizione finale in classifica.

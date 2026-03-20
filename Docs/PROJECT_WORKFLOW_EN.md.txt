@@ -1,0 +1,110 @@
+# Football Data Analysis – Project Workflow
+
+## 1. Project Idea
+
+The goal of this project is to analyze football performance across three major European leagues:
+
+- Serie A
+- Premier League
+- La Liga
+
+The objective is to build a complete data analysis pipeline starting from raw datasets and ending with an interactive Power BI dashboard.
+
+---
+
+## 2. Data Collection
+
+The datasets used in this project were collected from publicly available football statistics sources.
+
+Two main types of datasets were used:
+
+Match datasets containing:
+
+- match results
+- goals scored
+- goals conceded
+- match statistics
+
+Player datasets containing:
+
+- player statistics
+- goals
+- assists
+- minutes played
+
+---
+
+## 3. Data Cleaning (Python)
+
+Data cleaning was performed using Python and the Pandas library inside Jupyter Notebooks.
+
+Two notebooks were used:
+
+- matches_data_cleaning.ipynb
+- players_data_cleaning.ipynb
+
+Main operations included:
+
+- removing unnecessary columns
+- formatting data fields
+- filtering competitions
+- exporting cleaned datasets
+
+---
+
+## 4. Clean Data
+
+After the cleaning process, the final datasets were exported as CSV files.
+
+Match datasets:
+
+- matches_serie_a_clean.csv
+- matches_premier_league_clean.csv
+- matches_liga_clean.csv
+
+Players dataset:
+
+- players_capstone_3_leagues_2024_2025.csv
+
+---
+
+## 5. Database Creation
+
+The cleaned datasets were imported into a MySQL database to allow structured data analysis.
+
+SQL queries were used to calculate performance metrics and team statistics.
+
+---
+
+## 6. KPI Analysis
+
+Several key performance indicators were calculated, including:
+
+- goals scored
+- goals conceded
+- win percentage
+- clean sheets
+- minutes per goal
+- shot conversion rate
+
+---
+
+## 7. Data Visualization
+
+The final stage of the project consists of an interactive dashboard built with Power BI.
+
+The dashboard allows users to explore:
+
+- team performance
+- league comparisons
+- player statistics
+
+---
+
+## 8. Final Result
+
+The project demonstrates a complete data analysis pipeline combining:
+
+Python for data cleaning  
+SQL for data analysis  
+Power BI for data visualization
